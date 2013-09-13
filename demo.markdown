@@ -1,6 +1,5 @@
-
 ---
-This is a markdown generated page
+title: This is a markdown generated page
 ---
 
 
