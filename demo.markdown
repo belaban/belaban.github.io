@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-# Hi
+# Hello world
 
 This is *bold* and this is a list:
 * element1
