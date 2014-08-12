@@ -1,5 +1,6 @@
 ---
-title: This is a markdown generated page
+title: Tags
+layout: default
 ---
 
 
